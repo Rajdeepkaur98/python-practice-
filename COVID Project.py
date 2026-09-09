@@ -1,25 +1,4 @@
-# using simple if else condition 
-
-#  age = int(input("enter your age: "))
-
-# if age>=18:
-#     print("eligible for vaccination ")
-# else :
-#     print("not eligible")    
-
-
-# nested if
-
-# age = int(input("enter your age: "))
-# registration = input("enter your answer: ")
-
-# if age>=18:
-#     if registration == "yes":
-#         print("eligible for vaccination ")
-# else :
-#     print("not eligible")    
-
-# COVID VACCINATION FORM 
+# ------COVID VACCINATION FORM------ 
 
 # print(".....COVID Vaccination Form.....")
 
@@ -43,7 +22,7 @@
 # else:
 #     print("Status: Not Eligible for Vaccination")
 
-# using exception handling with else 
+# ------using exception handling with else----- 
 
 print(".....COVID Vaccination Form.....")
 
