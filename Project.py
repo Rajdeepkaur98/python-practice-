@@ -21,7 +21,8 @@
 #     print("Invalid Operator")
 
 
-# ----------ATM----------- 
+# ----------ATM-----------
+#  
 balance = 5000
 
 while True:

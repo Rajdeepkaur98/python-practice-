@@ -38,6 +38,6 @@ try:
     if age >= 18:
        print("Status: Eligible for Vaccination")
 except (ValueError, NameError, TypeError) : 
-    print ("invalid age input provided as per errors ")  
+    print ("invalid age input provided as per the errors ")  
 else:
     print("valid inputs ")    
